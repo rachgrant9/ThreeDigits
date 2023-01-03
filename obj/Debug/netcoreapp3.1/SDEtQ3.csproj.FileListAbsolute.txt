@@ -1,0 +1,14 @@
+C:\Users\rachelg\source\repos\SDEtQ3\bin\Debug\netcoreapp3.1\SDEtQ3.exe
+C:\Users\rachelg\source\repos\SDEtQ3\bin\Debug\netcoreapp3.1\SDEtQ3.deps.json
+C:\Users\rachelg\source\repos\SDEtQ3\bin\Debug\netcoreapp3.1\SDEtQ3.runtimeconfig.json
+C:\Users\rachelg\source\repos\SDEtQ3\bin\Debug\netcoreapp3.1\SDEtQ3.runtimeconfig.dev.json
+C:\Users\rachelg\source\repos\SDEtQ3\bin\Debug\netcoreapp3.1\SDEtQ3.dll
+C:\Users\rachelg\source\repos\SDEtQ3\bin\Debug\netcoreapp3.1\SDEtQ3.pdb
+C:\Users\rachelg\source\repos\SDEtQ3\obj\Debug\netcoreapp3.1\SDEtQ3.csproj.AssemblyReference.cache
+C:\Users\rachelg\source\repos\SDEtQ3\obj\Debug\netcoreapp3.1\SDEtQ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rachelg\source\repos\SDEtQ3\obj\Debug\netcoreapp3.1\SDEtQ3.AssemblyInfoInputs.cache
+C:\Users\rachelg\source\repos\SDEtQ3\obj\Debug\netcoreapp3.1\SDEtQ3.AssemblyInfo.cs
+C:\Users\rachelg\source\repos\SDEtQ3\obj\Debug\netcoreapp3.1\SDEtQ3.csproj.CoreCompileInputs.cache
+C:\Users\rachelg\source\repos\SDEtQ3\obj\Debug\netcoreapp3.1\SDEtQ3.dll
+C:\Users\rachelg\source\repos\SDEtQ3\obj\Debug\netcoreapp3.1\SDEtQ3.pdb
+C:\Users\rachelg\source\repos\SDEtQ3\obj\Debug\netcoreapp3.1\SDEtQ3.genruntimeconfig.cache
